@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MyCocoapodsLibLogger_Example' do
+  pod 'MyCocoapodsLibLogger', :path => '../'
+
+  target 'MyCocoapodsLibLogger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
