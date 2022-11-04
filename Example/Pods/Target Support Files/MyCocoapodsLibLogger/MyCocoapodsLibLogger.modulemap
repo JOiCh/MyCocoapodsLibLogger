@@ -1,0 +1,6 @@
+framework module MyCocoapodsLibLogger {
+  umbrella header "MyCocoapodsLibLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

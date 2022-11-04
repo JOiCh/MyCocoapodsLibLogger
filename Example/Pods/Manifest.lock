@@ -1,0 +1,16 @@
+PODS:
+  - MyCocoapodsLibLogger (0.1.0)
+
+DEPENDENCIES:
+  - MyCocoapodsLibLogger (from `../`)
+
+EXTERNAL SOURCES:
+  MyCocoapodsLibLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyCocoapodsLibLogger: b1154aadb3fcee1fe2f7a36e830381c7cb02e405
+
+PODFILE CHECKSUM: e0f1cdc2b8de811f42eebf1184fefa9012ca83d5
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapodsLibLogger",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodsLibLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JOi Chao/MyCocoapodsLibLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JOi Chao": "ilieqreila@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JOi Chao/MyCocoapodsLibLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodsLibLogger/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyCocoapodsLibLogger/Assets/*.jpg"
+    ]
+  }
+}

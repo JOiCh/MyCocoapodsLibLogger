@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import MyCocoapodsLibLogger
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        lg.debug("測試Ｐｏｄｓ")
+        
     }
 
     override func didReceiveMemoryWarning() {
